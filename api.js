@@ -1,4 +1,5 @@
- document.addEventListener("DOMContentLoaded",()=>{
+// JS for api.html
+document.addEventListener("DOMContentLoaded",()=>{
 
         const searchButton = document.getElementById('search-button');
         const searchInput = document.getElementById('search-input');
